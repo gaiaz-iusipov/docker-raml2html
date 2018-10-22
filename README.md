@@ -8,7 +8,7 @@
 
 - based on [RAML to HTML documentation generator](https://www.npmjs.com/package/raml2html)
 - only supports [RAML Version 1.0](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md)
-- uses [raml2html-slate-theme](https://www.npmjs.com/package/raml2html-slate-theme) theme
+- uses [raml2html default theme](https://www.npmjs.com/package/raml2html-default-theme) 
 
 ## Usage
 

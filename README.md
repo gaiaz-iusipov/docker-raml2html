@@ -1,6 +1,7 @@
 # docker-raml2html
 
 [![GitHub](https://img.shields.io/github/license/gaiaz-iusipov/docker-raml2html.svg)](https://github.com/gaiaz-iusipov/raml2html#license)
+[![Docker Build Status](https://img.shields.io/docker/build/gaiaz/raml2html.svg)](https://hub.docker.com/r/gaiaz/raml2html/)
 
 :whale: A [Docker](https://www.docker.com/) container that converts [RAML](https://raml.org/) files to HTML API documentation.
 

@@ -1,9 +1,8 @@
 FROM node:10-alpine
 
-LABEL maintainer="g.iusipov@gmail.com"
+LABEL maintainer="Gaiaz Iusipov <g.iusipov@gmail.com>"
 
-RUN set -xe && \
-    yarn global add --no-progress \
+RUN yarn global add --no-progress \
         raml2html
 
 WORKDIR /app

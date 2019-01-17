@@ -1,4 +1,4 @@
-FROM node:10-alpine
+FROM node:lts-alpine
 
 LABEL maintainer="Gaiaz Iusipov <g.iusipov@gmail.com>"
 

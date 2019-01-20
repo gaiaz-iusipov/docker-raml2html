@@ -1,9 +1,11 @@
-FROM node:10-alpine
+FROM node:lts-alpine
 
 LABEL maintainer="Gaiaz Iusipov <g.iusipov@gmail.com>"
 
-RUN yarn global add --no-progress \
-        raml2html
+RUN set -xe \
+    && yarn global add --silent \
+        raml2html \
+    && yarn cache clean --silent
 
 WORKDIR /app
 

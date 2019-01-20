@@ -1,6 +1,6 @@
 # docker-raml2html
 
-[![GitHub](https://img.shields.io/github/license/gaiaz-iusipov/docker-raml2html.svg)](https://github.com/gaiaz-iusipov/raml2html#license)
+[![GitHub](https://img.shields.io/github/license/gaiaz-iusipov/docker-raml2html.svg)](https://github.com/gaiaz-iusipov/docker-raml2html#license)
 [![Docker Automated build](https://img.shields.io/docker/automated/gaiaz/raml2html.svg)](https://cloud.docker.com/repository/docker/gaiaz/raml2html)
 [![Docker Build Status](https://img.shields.io/docker/build/gaiaz/raml2html.svg)](https://cloud.docker.com/repository/docker/gaiaz/raml2html)
 
